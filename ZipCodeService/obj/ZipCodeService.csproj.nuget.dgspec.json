@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\ZipCodeService\\ZipCodeService\\ZipCodeService.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\ZipCodeService\\ZipCodeService\\ZipCodeService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ZipCodeService\\ZipCodeService\\ZipCodeService.csproj",
+        "projectName": "ZipCodeService",
+        "projectPath": "D:\\Projects\\ZipCodeService\\ZipCodeService\\ZipCodeService.csproj",
+        "packagesPath": "C:\\Users\\dedinsmore\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ZipCodeService\\ZipCodeService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dedinsmore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "S:\\Public\\Development\\STSNugetPackageFeed": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://feeds.alkamitech.com/nuget/ThirdParty": {},
+          "https://feeds.alkamitech.com/nuget/nuget.dev": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
