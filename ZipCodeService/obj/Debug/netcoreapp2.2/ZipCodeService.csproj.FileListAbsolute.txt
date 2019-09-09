@@ -13,4 +13,3 @@ D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService
 D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.dll
 D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.pdb
 D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\Database\cities.db
-D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\Database\zipcodes.db
