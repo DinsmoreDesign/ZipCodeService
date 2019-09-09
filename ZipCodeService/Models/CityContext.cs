@@ -8,7 +8,7 @@ namespace ZipCodeService.Models
         public DbSet<City> Cities { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite(@"Date Source=Database/cities.db");
+            optionsBuilder.UseSqlite(@"Data Source=Database/cities.db");
         }
     }
 }

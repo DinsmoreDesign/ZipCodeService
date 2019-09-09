@@ -1,0 +1,14 @@
+D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\ZipCodeService.deps.json
+D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\ZipCodeService.runtimeconfig.json
+D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\ZipCodeService.runtimeconfig.dev.json
+D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\ZipCodeService.dll
+D:\Projects\ZipCodeService\ZipCodeService\bin\Debug\netcoreapp2.2\ZipCodeService.pdb
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.csprojAssemblyReference.cache
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.csproj.CoreCompileInputs.cache
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.RazorAssemblyInfo.cache
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.RazorAssemblyInfo.cs
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.AssemblyInfoInputs.cache
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.AssemblyInfo.cs
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.RazorTargetAssemblyInfo.cache
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.dll
+D:\Projects\ZipCodeService\ZipCodeService\obj\Debug\netcoreapp2.2\ZipCodeService.pdb
