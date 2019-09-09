@@ -27,7 +27,7 @@ namespace ZipCodeService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = @"Data Source=Database\zipcodes.db";
+            var connection = @"Data Source=Database\cities.db";
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<CityContext>(options => options.UseSqlite(connection));
